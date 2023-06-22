@@ -35,7 +35,7 @@ yes, it will console log 'err' if there is an issue
 ## Questions
 You can add them as issues on the code or contact me directly<br>
 <br>
-:octocat: Reach me on GitHub: [braydenday](https://github.com/braydenday)<br>
+Reach me on GitHub: [braydenday](https://github.com/braydenday)<br>
 <br>
 Email me: braydenday99@gmail.com<br><br>
 

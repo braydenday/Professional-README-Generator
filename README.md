@@ -20,7 +20,7 @@ N/A . Application won’t be deployed , its just command line code.
 A command line application created to generate a new professional README file!
 
 Here is a link to the usage video!
-<!-- this will be the google docs video link once recorded -->
+https://drive.google.com/file/d/14p7Jy7H4fZh4mPbM7CjVQz4Jfmhnw5Ku/view
 
 ## Credits
 Brayden Day - https://github.com/braydenday

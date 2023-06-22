@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br>
 
 ## Description
-generate new readme based on users prompted answers
+generate a new readme based on users prompted answers
 
 ## Table of Contents
 - [Description](#description)
@@ -16,10 +16,10 @@ generate new readme based on users prompted answers
 - [Questions](#questions)
 
 ## Installation
-its a command line tool , no installation
+its a command line tool
 
 ## Usage
-generate readme
+generate new readmes
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -27,13 +27,13 @@ generate readme
 This project is covered through the MIT license. 
 
 ## Contributing
-braydenday99@gmail.com
+braydenday@github
 
 ## Tests
-yes, it will throw an 'error' if readme is not able to generate
+yes, it will throw error if its not able to generate a new readme
 
 ## Questions
-reach out to me directly <br>
+reach out to me directly<br>
 <br>
 Reach me on GitHub: [braydenday](https://github.com/braydenday)<br>
 <br>

@@ -1,5 +1,4 @@
 # <Braydens-Professional-README-Generator>
-Module 9 Node.js challenge
 
 ## Description
 
@@ -20,8 +19,8 @@ N/A . Application won’t be deployed , its just command line code.
 
 A command line application created to generate a new professional README file!
 
-<!-- this needs to be a video showing the usage of the code -->
-![generate-readme](/Assets/Screenshot1.png?raw=true "generate a README file")
+Here is a link to the usage video!
+<!-- this will be the google docs video link once recorded -->
 
 ## Credits
 Brayden Day - https://github.com/braydenday

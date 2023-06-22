@@ -1,4 +1,4 @@
-// TODO: Create a function to generate markdown for README using template literals
+// TODO: Create a function to generate markdown for README using template literals from user prompted answers
 function generateMarkdown(answers) {
     return `
 <h1 text-align="center">${answers.title}</h1>
@@ -37,7 +37,7 @@ ${answers.tests}
 ## Questions
 ${answers.questions}<br>
 <br>
-:octocat: Reach me on GitHub: [${answers.username}](https://github.com/${answers.username})<br>
+Reach me on GitHub: [${answers.username}](https://github.com/${answers.username})<br>
 <br>
 Email me: ${answers.email}<br><br>
 

@@ -58,17 +58,23 @@ function promptInput(){
         {
             type: "input",
             name: "questions",
-            message: "What do I do if I have an issue? "
+            message: "What do you do if there's any questions? "
         },
         
     ]);
 } 
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
-
-// TODO: Create a function to initialize app
-function init() {}
+// TODO: Create a function to write README file from prompted answers
+async function init() {
+    try {
+        const answers = await promptInput();
+        const generateContent = generateMarkdown(answers);
+        await writeFileAsync('./dists/README.md', generateContent);
+        console.log('Successful');
+    }   catch(err) {
+        console.log(err);
+    }
+  }
 
 // Function call to initialize app
 init();

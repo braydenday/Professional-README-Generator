@@ -30,7 +30,7 @@ This project is covered through the MIT license.
 braydenday@github.com
 
 ## Tests
-no
+yes, it will console log 'err' if there is an issue
 
 ## Questions
 You can add them as issues on the code or contact me directly<br>

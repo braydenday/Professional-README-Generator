@@ -20,6 +20,11 @@ function promptInput(){
         },
         {
             type: "input",
+            name: "title",
+            message: "What is the title for your project?",
+        },
+        {
+            type: "input",
             name: "description",
             message: "Write a description about your project: ",
         },
@@ -38,16 +43,16 @@ function promptInput(){
             name: "license",
             message: "Choose your license for this project: ",
             choices: [
-                "GNU",
-                "ISC",
+                "Apache",
+                "GPL",
+                "BSD",
                 "MIT",
-                "Mozilla",
-                "Open"
+                "None"
             ]
         },
         {
             type: "input",
-            name: "contributing",
+            name: "contribution",
             message: "Who contributed to this project?"
         },
         {
